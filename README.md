@@ -41,8 +41,8 @@ Run the Streamlit application:
 streamlit run app.py
 
 Open the application in your browser at http://localhost:8501.
-Project Structure
-. app.py: Main application file for Streamlit.
-. models/: Contains trained machine learning models.
-. data/: Sample data used for testing and visualization.
-. visualizations/: Scripts for creating visualizations.
+# Project Structure
+- . app.py: Main application file for Streamlit.
+- . models/: Contains trained machine learning models.
+- . data/: Sample data used for testing and visualization.
+- . visualizations/: Scripts for creating visualizations.
