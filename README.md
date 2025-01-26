@@ -30,7 +30,7 @@
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/alzheimer-prediction.git
+   git clone https://github.com/gaball1/Alzheimer-Prediction-AI.git
 2. Navigate to the project directory:
 cd alzheimer-prediction
 
